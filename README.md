@@ -2,7 +2,7 @@
 一个简易的可以，可以随自己意愿修改的LineView
 
 ![演示jpg](https://github.com/superSp/LineView/blob/master/lineview.png)
-##### 使用要和比较简单
+##### 使用比较简单
 先去这里把View源码下载下来放入到自己的view目录
 在布局中添加:（`com.sp.view.LineView`根据自己放代码的位置修改）
 ````
